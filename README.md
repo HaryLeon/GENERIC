@@ -1,0 +1,2 @@
+# GENERIC
+All Symbol generic
